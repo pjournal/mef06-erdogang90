@@ -127,11 +127,11 @@ g + geom_bar(aes(fill=class), width = 0.5) +
        subtitle="Manufacturer across Vehicle Classes") 
 ```
 
-## Measure of Central Tendency
+## **Measure of Central Tendency**
 
 There are three main measures of central tendency: Mean, Median and Mode.
 
-**Mean:** Sum of values divided by number of values. mean() function is used to calculate the mean in R
+**1-Mean:** Sum of values divided by number of values. mean() function is used to calculate the mean in R
 
 **Syntax for calculating mean in R:**
 

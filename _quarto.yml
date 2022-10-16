@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "[GIZEM ERDOGAN] Progress Journal"
+  title: "GIZEM ERDOGAN Progress Journal"
   repo-url: https://github.com/pjournal/mef06-erdogang90
   chapters:
     - index.qmd
