@@ -3,7 +3,7 @@
     "path": "~/GitHub/mef06-erdogang90/assignment1.qmd",
     "project_path": "assignment1.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1470149524",
     "contents": "",
     "dirty": false,
     "created": 1665852303179.0,
@@ -11,14 +11,16 @@
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "11,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1665851384,
+    "lastKnownWriteTime": 1665911246,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1665851384,
+    "last_content_update": 1665911246,
     "read_only": false,
     "read_only_alternatives": []
 }
