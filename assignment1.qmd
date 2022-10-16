@@ -1,7 +1,6 @@
 ---
 title: "Assignment 1"
 author: "Gizem Erdogan"
-toc: true
 highlight-style: pygments
 format: html
 editor: visual

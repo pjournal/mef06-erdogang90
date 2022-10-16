@@ -14,9 +14,7 @@ book:
 
 format:
   html:
-    theme: 
-      light: flatly
-      dark: darkly
+    
   pdf:
     documentclass: scrreprt
 
